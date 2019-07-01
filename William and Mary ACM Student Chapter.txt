@@ -1,143 +1,95 @@
-Article I
-Name
-1. This organization shall be called: William and Mary ACM Student
-Chapter. In these Bylaws it is referred to as the Chapter; the
-Association for Computing Machinery is referred to as ACM.
-Article II
-Purpose
-1. The Chapter is organized and will be operated exclusively for
-educational and scientific purposes to promote the following:
-a. An increased knowledge of and greater interest in the science,
-design, development, construction, languages, management and
-applications of modern computing
-b. Greater interest in computing and its applications
-c. A means of communication between persons having an interest in
-computing
-2. The Chapter will serve students at and other interested persons in
-the community.
-3. The Chapter is chartered by ACM.
-Article III
-Membership
-1. Membership in the Student Chapter shall be open to all ACM
-members and nonmembers.
-2. Voting membership in the Student Chapter shall be granted to all
-active Chapter members.
-3. Membership shall not be restricted according to race, creed, age,
-gender, disability, nationality, sexual orientation, economic status,
-veteran status, or parenthood.
-Article IV
-Officers
-1. The officers of this Chapter shall be: Chair, Vice Chair, and
-Treasurer. These individuals must be ACM Student Members. In
+Bylaws and Constitution of the Student Chapter of the Association for Computing Machinery at the College of William and Mary in Virginia
 
-addition, a Faculty Sponsor with an ACM Professional Membership is
-required. Other officers may also be established.
-2. The officers shall be elected by a plurality of votes cast at the annual
-election meeting or via electronic voting and serve for a minimum of
-one year.
-3. Appointment or nomination of an individual to an officer position
-within an ACM Chapter shall be in general limited to two full
-consecutive terms in the same position. This recommendation is
-intended to encourage the continuing infusion of new volunteers into
-the organization and to encourage office holders to give thought to
-planning for their successor.
-Article V
-Duties of Officers
-1. The Chair is the principal officer and is responsible for leading the
-Chapter and managing its activities in accordance with the policies and
-procedures of ACM and these bylaws.
-2. The Vice Chair shall preside at meetings in the absence of the Chair,
-assist the Chair in the management of the Chapter, and perform other
-duties that may be assigned by the Chair.
-3. The Treasurer shall keep the minutes of all Chapter meetings and
-maintain the Chapter's financial records. Other duties include:
-a. Collecting dues, paying all bills, and maintaining records for the
-Chapter
-b. Preparation of the Chapter's annual report and officer contact
-information, and submission of these to ACM Headquarters via the
-Chapter Administrative Interface
-c. Submission of any proposed amendment to these bylaws must be
-submitted to ACM Headquarters - Chapters Department. Proposed
-amendments must be approved before they can be submitted to the
-Chapter's membership for a vote.
-d. Perform other duties as assigned by the Chair
-4. The Faculty Sponsor shall be a faculty member or full-time staff
-member of your school. Each Student Chapter has one Sponsor.
-a. The Faculty Sponsor shall be a voting member of ACM and either a
-member of the faculty or full-time staff of
-b. The Faculty Sponsor shall be generally responsible for the activities
-of the Chapter. Specifically, the Sponsor:
+Article I. Name
 
-i. helps provide continuity from year to year as student leadership and
-personnel change
-ii. promotes good student-faculty relationships
-iii. helps maintain university standards in all activities of the Chapter
-iv. exercises financial supervision, if necessary, by promoting prompt
-payment of bills and collection of dues, and overseeing the settlement
-of all accounts in the event of dissolution of the Chapter
-v. represents the Chapter interests to the faculty and administration
-vi. For high school Chapters and underage students the Faculty
-Sponsor must be in attendance at every meeting that is held in the
-evening. In the event that the appointed sponsor is not available,
-another faculty member may chaperone the meeting. If both are not
-available, a local area professional, previously investigated and
-approved by the school, can be assigned to supervise evening
-meetings.
-Article VI
-Meetings
-1. The Chapter shall hold meetings only in places that are open and
-accessible to all members of the Association.
-2. An annual election meeting should be held. At this meeting, the
-Treasurer will present the required reports. Also, the election of
-officers shall be held.
-3. Notices of all meetings shall be distributed to all members at least
-one week prior to any meeting.
-Article VII
-Disbursements and Dues
-1. Disbursements from the Treasury for Chapter expenditures shall be
-made by any active Chapter officer and shall be included in the
-minutes of its meetings.
-2. Dues shall be fixed annually.
-Article VIII
-Amendment and Voting Procedure
-1. All proposed changes to these Chapter Bylaws shall be approved by
-ACM Headquarters - Chapters Department before being presented to
-the Chapter membership for a vote.
-2. No official business of the Chapter shall be conducted unless a
-quorum is present. A quorum of the Chapter shall be defined as a
-majority of the voting membership of the Chapter.
-3. Officers will be elected by a plurality of votes cast.
-Article IX
-Code of Conduct
-1. Harassment or hostile behavior is unwelcome, including speech that
-intimidates, creates discomfort, or interferes with a person's
-participation or opportunity for participation, in a Chapter meeting or
-Chapter event. Harassment in any form, including but not limited to
-harassment based on alienage or citizenship, age, color, creed,
-disability, marital status, military status, national origin, pregnancy,
-childbirth- and pregnancy-related medical conditions, race, religion,
-sex, gender, veteran status, sexual orientation or any other status
-protected by laws in which the Chapter meeting or Chapter event is
-being held, will not be tolerated. Harassment includes the use of
-abusive or degrading language, intimidation, stalking, harassing
-photography or recording, inappropriate physical contact, sexual
-imagery and unwelcome sexual attention. A response that the
-participant was “just joking,” or “teasing,” or being “playful,” will not
-be accepted.
-2. Anyone witnessing or subject to unacceptable behavior should
-notify a Chapter officer or ACM Headquarters.
-3. Individuals violating these standards may be sanctioned or excluded
-from further participation at the discretion of the Chapter officers or
-responsible committee members.
-Article X
-Dissolution of the Chapter
-1. Dissolution of this Chapter by consent of the members shall consist
-of unanimous agreement of all its officers together with a majority
-vote at a meeting which has been publicized in advance to all members
-of the Chapter for the purpose of taking this vote.
-2. Should this Chapter be dissolved, its assets and liabilities shall be
-transferred to ACM and shall be supervised by the ACM Finance
-Director. Funds given to the Chapter from the University shall be
-returned to the University.
+This organization shall be called the Student Chapter of the Association for Computing Machinery (ACM) at the College of William and Mary in Virginia (WM@ACM).
 
-
+Article II. Purpose 
+
+The chapter is organized and will be operated exclusively for educational and scientific purposes and in furtherance thereof.
+
+To promote an increased knowledge of the science, design, development, construction, languages, and applications of modern computing machinery.
+To promote a greater interest in computing machinery and its applications
+To provide a means of communication between persons having interest in computing machinery.
+
+Article III. Membership
+
+Any full-time student or faculty member at the College of William and Mary may upon request and payment of dues become a voting member of this chapter. 
+Voting membership in the student chapter shall be granted to chapter members who are also National ACM members.
+Any person who is not a full-time student or faculty member at the College of William and Mary, may upon request and payment of dues become a non-voting affiliate member of this chapter.
+A member in good standing of the national ACM who is not a full-time student or faculty member at the College of William and Mary, may upon request and payment of dues become a voting affiliate member of this chapter, provided that the number of voting affiliate members shall not exceed one-half of the entire voting membership of this chapter.
+Affiliate members may not hold executive office.
+
+Article IV. Officers
+
+The officers of this chapter shall be Chairman, Vice Chairman, Secretary, Treasurer, Public Relations Chair, Webmaster, Hackathon Chair, Cypher Chair, Interview Preparation Chair and Graduate Liaison. Each officer must be a member in good standing of the national ACM, a voting member of this chapter, and a full or part-time student at the College of William and Mary. An elected officer who is not a member in good standing of the national ACM at the time of they election must apply for membership to the national ACM as soon as possible after such election.
+The officers shall be elected at the annual Election Meeting, to be held in the spring semester of each year. They shall take office immediately after the election and serve until their successors take office at the next Election Meeting.
+Any member who has served in either of the offices of Chairman or Vice Chairman in each of two consecutive years, may not hold either office in the immediately following year.
+Vacancies in any office other than Chairman caused by resignation, removal or disability shall be filled as follows: 
+
+As soon as possible after the vacancy occurs, the Executive Council will hold a meeting for the purpose of nominating members to fill the vacancy. At the chapter meeting immediately following this meeting, the nominees will be presented to the chapter members. At this time, an election to fill the vacant office will be held, according to regular election procedures (see Article IX).
+
+If the office of the Chairman is so vacated, the Vice Chairman shall immediately assume that office, and the Executive Council shall then fill the vacant office of Vice Chairman.
+
+Article V. Duties of Officers
+
+The Chair shall preside at all meeting and activities of this chapter and its Executive Council. The Chair shall represent this chapter at all meetings with the ACM Regional Representative. The Chair shall also assist the other officers as needed.
+The Vice Chair shall assume the duties of the Chair in the event of the Chair’s absence. The Vice Chair shall also be responsible for organizing chapter-wide meetings and social events, and arranging for speakers.
+The Secretary shall keep chapter members informed of chapter news and business. They shall keep minutes of all executive council meetings, and shall keep minutes of chapter meetings when asked to do so by the Chair. They shall also be responsible for completing all forms and reports required by the national ACM.
+The Treasurer shall collect dues and maintain financial and membership records. The treasurer will fulfill budgeting obligations to William and Mary, and will draft a budget proposal and request from the student leadership office upon the chairman’s request each semester. The treasurer will dispense funds to the committees upon request and will work with the Chair to set budget guidelines at the beginning of each semester.
+The Public Relations chair shall promote the William and Mary chapter of the ACM to the campus using any appropriate media. They will also promote individual events organized and affiliated with the Chapter. 
+The Webmaster will manage the development and content of the WM-ACM Chapter website. They shall act as historian by managing photographs and text posts relevant to the Chapter.
+The Cypher Chair shall organize William & Mary’s annual hackathon: Cypher. They shall be responsible for raising funds for the event, encouraging participation at the event from William & Mary students and students at other universities, and run the event. They will, as necessary, be aided by other members of the executive council in completion of these duties. 
+The Hackathon Chair shall disseminate information, news, and organize events for ACM members to encourage student innovation and computer interests. They shall also promote attendance to external hackathons and conferences.
+The Interview Preparation Chair shall organize weekly interview preparation sessions designed to aid ACM members to perform well in technical interviews. They shall maintain employer relations and organize employer sponsored talks and events when appropriate. They shall maintain the chapter relationship with the William and Mary Career Center.
+The Graduate Student Liaison will serve as contact and representative of the graduate students at William and Mary. As such, this position must be held by a member of the Computer Science Graduate Student Association for as long as it exists, and is highly encouraged to hold a leadership role in that organization as well. This office can be held in addition to any other executive office, but will yield only one vote.
+
+Article VI. Faculty Advisor
+
+The Faculty Advisor shall be nominated by the Executive Council at the first Executive Council meeting following the annual Election. The nomination shall be submitted to the President of the national ACM via the Chair of the national ACM Student Membership and Chapters Committee. The Faculty Advisor shall be appointed chapter sponsor by the President of national ACM to serve until a successor is appointed.
+The Faculty Advisor shall be generally responsible for the activities of this chapter.
+The Faculty Advisor shall:
+Help provide continuity from year to year as student leadership and personnel change;
+Promote good student-faculty relationships;
+Help maintain university standards in all activities of the organization;
+Exercise financial supervision if necessary by promoting prompt payment of bills and and collection of dues, and overseeing the settlement of all accounts in the event of dissolution of this chapter;
+Represent the student chapter interests to the faculty and administration.
+The faculty advisor shall be a member in good standing of the national ACM.
+
+Article VII. Executive Council
+
+The Executive Council shall consist of the chapter officers, and the Faculty Advisor. Immediate past officers who are chapter members may also serve as non-voting members of the Executive Council. The Executive Council shall meet and nominate the Faculty Advisor following the annual Election Meeting. (see Article VI).
+Except as otherwise provided in these Bylaws, the Executive Council shall act for this chapter in all matters except election of officers at the annual Election Meeting and the amendment of these Bylaws. Minutes of all Executive Council meetings shall be filed with the chapter records.
+Meetings of the Executive Council shall be called by the Chair at they discretion or upon request of any member of the Executive Council.
+
+Article VIII. Committees
+
+Temporary committees shall be established as needed by the chapter officers. The officer for whom the committee is established shall be responsible for appointing the chairman of that committee, or shall serve as chairman themself.
+Membership on committees in voluntary and open to all member of the chapter. Voting members shall be asked to serve on at least one committee per year, but this shall not be required.
+Public Relations Chair, Webmaster, Hackathon Chair, Cypher Chair, and Interview Preparation Chair shall attempt to organize committees to delegate responsibilities whenever this is possible.
+
+Article IX. Meetings
+
+Meetings shall be held as planned by the Executive Council. This chapter may hold meetings only in places that are open to all members of the Association for Computing Machinery.
+The annual Election Meeting shall be held during the spring term of every year. A majority of the votes cast for any office is necessary for election to that office.
+A public announcement of each meeting shall be made in advance of that meeting.
+There shall be at least six meetings and or activities each year.
+A quorum of this chapter shall be required for the conduct of business and shall consist of a majority of the voting members of this chapter.
+
+Article X. Disbursements and Dues
+
+Disbursements from the Treasury for chapter expenditures shall be made under authorization of the Executive Council.
+Dues shall be collected as authorized by the Executive Council.
+
+Article XI. Amendments and Procedure
+
+Amendments to these Bylaws shall be made in the following manner:
+
+The proposed amendment shall be read at an announced chapter meeting. Three copies of the proposed amendment shall be sent to the Executive Director of the national ACM, requesting the approval of the Chair of the National ACM Student Membership and Chapters Committee and the Chair of the national ACM Constitution and Bylaws Committee.
+After approval has been received from the designated ACM authority, the proposed amendment shall be distributed to the membership in writing with notice of a subsequent meeting at which the amendment will be considered.
+At the designated meeting the amendment shall be read again, discussed, and voted upon. Two-thirds of the voting members present and voting shall be required to adopt the amendment.
+Rulings on any point of procedure not included in these bylaws shall be made by the Chairman with approval of the Faculty Advisor.
+
+Article XII. Dissolution
+
+In the event of revocation of the Charter or dissolution of this chapter, all the assets of the chapter will be transferred to the Association for Computing Machinery and shall be supervised by the ACM Finance Director.
